@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Daily Brief</title>
+<meta name="description" content="A daily briefing of key Bahrain and crypto news.">
+<meta name="theme-color" content="#f6f3ec" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#11151c" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Daily Brief">
+<link rel="manifest" href="dailybrief-manifest.json">
+<link rel="icon" type="image/png" href="dailybrief-icon-192.png">
+<link rel="apple-touch-icon" href="dailybrief-apple-touch-icon.png">
+<style>
+:root{
+  --bg:#f6f3ec; --card:#fffdf8; --ink:#1b1f27; --muted:#6a6f7a; --line:#e2dccf;
+  --accent:#b4451f; --accent-soft:#f3e2d9; --tag-biz:#1f5f8b; --tag-biz-soft:#dfecf5;
+  --notice-bg:#fff3d6; --notice-ink:#6b4a00;
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    --bg:#11151c; --card:#1a2029; --ink:#e9e6df; --muted:#9aa1ad; --line:#2b3340;
+    --accent:#f08a5d; --accent-soft:#3a2a23; --tag-biz:#7fb8e0; --tag-biz-soft:#1f2f3d;
+    --notice-bg:#3a3118; --notice-ink:#f2d58a;
+  }
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0; background:var(--bg); color:var(--ink);
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  line-height:1.5;
+  padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+}
+.wrap{max-width:720px; margin:0 auto; padding:20px 16px 48px}
+header.top{display:flex; align-items:baseline; gap:8px; border-bottom:3px double var(--ink); padding-bottom:10px}
+header.top h1{font-family:Georgia,"Times New Roman",serif; font-size:1.9rem; margin:0; letter-spacing:-.01em}
+.ver{font-size:.68rem; opacity:.45}
+.datebar{display:flex; align-items:center; justify-content:space-between; gap:8px; margin:14px 0 4px}
+.datebar .when{text-align:center; flex:1; min-width:0}
+.datebar .day{font-weight:600}
+.datebar .upd{font-size:.8rem; color:var(--muted)}
+.nav{
+  width:44px; height:44px; flex:none; border:1px solid var(--line); background:var(--card); color:var(--ink);
+  border-radius:50%; font-size:1.2rem; line-height:1; cursor:pointer;
+}
+.nav:disabled{opacity:.3; cursor:default}
+.notice{background:var(--notice-bg); color:var(--notice-ink); border-radius:8px; padding:8px 12px; font-size:.88rem; margin-top:10px}
+.note{color:var(--muted); font-size:.82rem; margin-top:8px}
+h2.sec{
+  font-family:Georgia,"Times New Roman",serif; font-size:1.25rem; margin:26px 0 10px;
+  padding-bottom:6px; border-bottom:1px solid var(--line); display:flex; align-items:baseline; gap:8px
+}
+h2.sec .count{font-family:inherit; font-size:.75rem; color:var(--muted); font-weight:400}
+.item{background:var(--card); border:1px solid var(--line); border-radius:10px; padding:14px 14px 12px; margin-bottom:10px}
+.item h3{font-size:1.02rem; line-height:1.35; margin:0 0 6px; overflow-wrap:anywhere}
+.item p{margin:0 0 10px; color:var(--ink); opacity:.88; font-size:.95rem; overflow-wrap:anywhere}
+.tag{
+  display:inline-block; font-size:.66rem; font-weight:700; letter-spacing:.06em; text-transform:uppercase;
+  padding:2px 7px; border-radius:4px; margin-bottom:7px; background:var(--accent-soft); color:var(--accent)
+}
+.tag.biz{background:var(--tag-biz-soft); color:var(--tag-biz)}
+.links{display:flex; flex-wrap:wrap; gap:6px 14px}
+.links a{color:var(--accent); font-size:.85rem; font-weight:600; text-decoration:none; padding:4px 0}
+.links a:hover{text-decoration:underline}
+.state{text-align:center; color:var(--muted); padding:60px 10px}
+footer{margin-top:30px; color:var(--muted); font-size:.75rem; text-align:center}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <h1>Daily Brief</h1>
+    <span class="ver">v1.0</span>
+  </header>
+
+  <div class="datebar" id="datebar" hidden>
+    <button class="nav" id="prev" aria-label="Previous day">&#8249;</button>
+    <div class="when">
+      <div class="day" id="day"></div>
+      <div class="upd" id="upd"></div>
+    </div>
+    <button class="nav" id="next" aria-label="Next day">&#8250;</button>
+  </div>
+  <div class="notice" id="stale" hidden>This is not today's briefing.</div>
+  <div class="note" id="unavailable" hidden></div>
+
+  <main id="content"><div class="state">Loading...</div></main>
+
+  <footer>Summaries are written by an AI assistant from the linked articles. Open the source for the full story.</footer>
+</div>
+
+<script>
+var APP_VERSION = 'v1.0';
+var dates = [];          // newest first
+var pos = 0;             // index into dates
+var lastLoad = 0;
+var REFRESH_AFTER_MS = 5 * 60 * 1000;
+
+function $(id){ return document.getElementById(id); }
+
+function el(tag, cls, text){
+  var e = document.createElement(tag);
+  if (cls) e.className = cls;
+  if (text != null) e.textContent = text;   // always text, never HTML
+  return e;
+}
+
+// Bahrain is UTC+3 all year.
+function bahrainToday(){
+  return new Date(Date.now() + 3 * 3600 * 1000).toISOString().slice(0, 10);
+}
+
+function longDate(ymd){
+  var d = new Date(ymd + 'T00:00:00Z');
+  if (isNaN(d)) return ymd;
+  return d.toLocaleDateString('en-GB', { weekday:'long', day:'numeric', month:'long', year:'numeric', timeZone:'UTC' });
+}
+
+function bahrainTime(iso){
+  var t = Date.parse(iso);
+  if (isNaN(t)) return '';
+  return new Date(t + 3 * 3600 * 1000).toLocaleTimeString('en-US', { hour:'numeric', minute:'2-digit', timeZone:'UTC' });
+}
+
+function getJson(path){
+  return fetch(path + '?t=' + Date.now(), { cache:'no-store' }).then(function(res){
+    if (res.status === 404) return null;
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    return res.json();
+  });
+}
+
+function showState(message){
+  var c = $('content');
+  c.textContent = '';
+  c.appendChild(el('div', 'state', message));
+}
+
+function safeUrl(u){
+  return typeof u === 'string' && /^https?:\/\//i.test(u) ? u : null;
+}
+
+function renderItem(item, withTag){
+  var card = el('article', 'item');
+  if (withTag && item.tag) card.appendChild(el('span', 'tag' + (item.tag === 'Business' ? ' biz' : ''), item.tag));
+  card.appendChild(el('h3', null, item.title || ''));
+  card.appendChild(el('p', null, item.summary || ''));
+  var links = el('div', 'links');
+  (item.links || []).forEach(function(l){
+    var href = safeUrl(l && l.url);
+    if (!href) return;
+    var a = el('a', null, (l.source || 'Source') + ' ↗');
+    a.href = href;
+    a.target = '_blank';
+    a.rel = 'noopener';
+    links.appendChild(a);
+  });
+  card.appendChild(links);
+  return card;
+}
+
+function renderSection(title, items, withTag){
+  var frag = document.createDocumentFragment();
+  var h = el('h2', 'sec', title);
+  h.appendChild(el('span', 'count', (items.length) + (items.length === 1 ? ' story' : ' stories')));
+  frag.appendChild(h);
+  items.forEach(function(it){ frag.appendChild(renderItem(it, withTag)); });
+  return frag;
+}
+
+function renderBrief(brief){
+  var date = dates[pos];
+  $('datebar').hidden = false;
+  $('day').textContent = longDate(date);
+  var time = bahrainTime(brief.generated_at);
+  $('upd').textContent = time ? 'Updated ' + time : '';
+  $('prev').disabled = pos >= dates.length - 1;
+  $('next').disabled = pos <= 0;
+  $('stale').hidden = !(pos === 0 && date < bahrainToday());
+
+  var missing = Array.isArray(brief.sources_unavailable) ? brief.sources_unavailable : [];
+  $('unavailable').hidden = missing.length === 0;
+  $('unavailable').textContent = missing.length ? 'Unavailable today: ' + missing.join(', ') : '';
+
+  var c = $('content');
+  c.textContent = '';
+  c.appendChild(renderSection('Bahrain', Array.isArray(brief.bahrain) ? brief.bahrain : [], true));
+  c.appendChild(renderSection('Crypto', Array.isArray(brief.crypto) ? brief.crypto : [], false));
+  window.scrollTo(0, 0);
+}
+
+function showDay(i){
+  pos = i;
+  var wanted = dates[i];
+  return getJson('briefs/' + wanted + '.json').then(function(brief){
+    if (dates[pos] !== wanted) return;          // a newer tap won
+    if (!brief) { showState('That briefing could not be found.'); return; }
+    renderBrief(brief);
+  }).catch(function(){
+    showState('Could not load the briefing. Check your connection.');
+  });
+}
+
+function load(){
+  lastLoad = Date.now();
+  return getJson('briefs/index.json').then(function(index){
+    dates = index && Array.isArray(index.dates) ? index.dates.slice().sort().reverse() : [];
+    if (!dates.length) {
+      $('datebar').hidden = true; $('stale').hidden = true; $('unavailable').hidden = true;
+      showState('No briefing yet.');
+      return;
+    }
+    return showDay(0);
+  }).catch(function(){
+    showState('Could not load the briefing. Check your connection.');
+  });
+}
+
+$('prev').addEventListener('click', function(){ if (pos < dates.length - 1) showDay(pos + 1); });
+$('next').addEventListener('click', function(){ if (pos > 0) showDay(pos - 1); });
+
+// The installed app stays open in the background, so pick up a new briefing when it comes back.
+document.addEventListener('visibilitychange', function(){
+  if (document.visibilityState === 'visible' && Date.now() - lastLoad > REFRESH_AFTER_MS) load();
+});
+
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('dailybrief-sw.js').catch(function(){});
+}
+
+load();
+</script>
+</body>
+</html>
