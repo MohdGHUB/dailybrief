@@ -1,0 +1,14 @@
+{
+  "name": "Daily Brief",
+  "short_name": "Daily Brief",
+  "description": "A daily briefing of key Bahrain and crypto news.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f3ec",
+  "theme_color": "#12233f",
+  "icons": [
+    { "src": "dailybrief-icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "dailybrief-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
