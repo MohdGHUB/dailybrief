@@ -1,0 +1,167 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T14:00:46+03:00",
+  "sources_unavailable": [
+    "Daily Tribune"
+  ],
+  "bahrain": [
+    {
+      "title": "Government hospitals bring in new price list for insured residents from 31 October",
+      "summary": "An updated price list will apply to residents covered by the National Health Insurance Programme for Residents. It excludes domestic workers and government-employed residents and their dependants, and citizens' services are unchanged. Insured residents will be treated within their approved benefit packages and coverage limits.",
+      "tag": "News",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1410145"
+        }
+      ]
+    },
+    {
+      "title": "New decree sets a minimum contribution level for social insurance",
+      "summary": "Decree-Law No 44 of 2026 bases pension contributions on a minimum wage to be set by Cabinet, applying to people registering with the SIO for the first time. The aim is to match contributions to the minimum pension and protect the fund. It also opens insurance options for Bahrainis working for employers outside the Social Insurance Law.",
+      "tag": "News",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1410107"
+        }
+      ]
+    },
+    {
+      "title": "Gold and jewellery traders face fines of up to BD 50,000 under anti-money laundering rules",
+      "summary": "Ministerial Decision No 46 of 2026, effective immediately, fines gold traders and auditors BD 1,000 to BD 2,500 for compliance failures and up to BD 50,000 for dealing with sanctioned parties. Cash sales of gold or jewellery worth BD 3,000 or more are banned, and buyer ID must be copied for cash sales above BD 2,000.",
+      "tag": "Business",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1410112"
+        }
+      ]
+    },
+    {
+      "title": "New fine schedule for commercial registration breaches, beneficial owner rules apply now",
+      "summary": "Decision No 47 of 2026 lists fines up to BD 2,500 under the Commercial Register Law. Failing to disclose or misstating ultimate beneficiaries, and falsely declaring no tax ID, are punishable immediately. Other fines, such as BD 500 for trading without a CR, start in six months.",
+      "tag": "Business",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1410113"
+        }
+      ]
+    },
+    {
+      "title": "Salmaniya Medical Complex set for four-year overhaul and 48 more critical care beds",
+      "summary": "Phased refurbishment of SMC infrastructure, wards and clinics is expected to start in 2027, with the first phase taking about 24 months. A separate project to add 48 intensive care beds should go to tender in Q2 2027, with handover in 2028. The final budget still needs approval.",
+      "tag": "News",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1410084"
+        }
+      ]
+    },
+    {
+      "title": "Ministry orders 62 societies and clubs to dissolve",
+      "summary": "Social Development Minister Osama Al Alawi ordered the compulsory dissolution of 62 bodies, including charities, expatriate clubs, professional and business associations such as the Bahrain Money Changers Association. Talal Abu-Ghazaleh and Partners will liquidate them over 18 months, with leftover funds going to the Civil Social Work Fund.",
+      "tag": "News",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1410077"
+        }
+      ]
+    },
+    {
+      "title": "Municipal council terms extended in line with Parliament's extended term",
+      "summary": "An edict from Deputy Prime Minister Shaikh Khalid bin Abdulla Al Khalifa extends the current municipal councils until the end of the extended sixth legislative term of the Shura Council and Parliament, citing current circumstances. It takes effect the day after publication in the Official Gazette.",
+      "tag": "News",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1410099"
+        }
+      ]
+    },
+    {
+      "title": "CBB lets CFI Bahrain clients fund trading accounts with USDT and USDC",
+      "summary": "The Central Bank of Bahrain approved CFI Bahrain accepting the two stablecoins for account funding. Licensed crypto provider ARP Digital Bahrain handles wallets, screening and conversion to fiat, so CFI only ever receives fiat and does not hold crypto.",
+      "tag": "Business",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1409366"
+        }
+      ]
+    }
+  ],
+  "crypto": [
+    {
+      "title": "JPMorgan to bring its JPM Coin deposit token to Ethereum",
+      "summary": "The bank will offer JPM Coin, which represents dollar deposits, to institutional clients on Ethereum, expanding beyond Coinbase's Base network, Bloomberg reported. JPMorgan cited Ethereum's liquidity for payments and trade settlement. No launch date was given. Its Kinexys network handles over $7 billion a day.",
+      "links": [
+        {
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg"
+        },
+        {
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "title": "French Assembly narrowly passes tax on crypto-to-stablecoin swaps",
+      "summary": "The National Assembly adopted the amendment 38 to 37, which would make swapping crypto into stablecoins a taxable event from 2027. It rejected a 10-year carry-forward for crypto losses. An exit tax for holders above 800,000 euros and reporting of self-custody wallets above 100,000 euros are still under consideration.",
+      "links": [
+        {
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/france-stablecoin-tax-eyes-self-custodial-wallets-exit-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "title": "Broadcom, Verizon and others object to tokenized trading of their shares on OKX-ICE",
+      "summary": "Nine issuers, also including UnitedHealth and CoreWeave, objected to the planned OKXICE venue, which would trade tokenized US stocks 24 hours a day under the SEC's five-year Innovation Exemption. Nasdaq says it will opt out too. Analysts say the temporary nature of the exemption is the biggest hurdle.",
+      "links": [
+        {
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing"
+        }
+      ]
+    },
+    {
+      "title": "Qubic halts its blockchain after $1.4 million drained from weak wallets",
+      "summary": "An attacker exploited poorly generated seeds, mostly from wallets created on Apple browsers, to drain about $1.4 million from over 1,400 accounts. Qubic says 87.1% of the funds never left its network and MEXC froze the rest. Validators will vote on a recovery plan, and no restart date has been set.",
+      "links": [
+        {
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "title": "Deutsche Bank plans crypto custody in Asia in 2027 as German launch nears",
+      "summary": "The bank expects to launch custody for bitcoin, ether and stablecoins USDC, EURC and EURAU in Germany within weeks, after receiving MiCA authorisation from BaFin on 12 October, then expand to Asia in 2027. It also plans stablecoin conversion, tokenized deposits and digital bond issuance services.",
+      "links": [
+        {
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears"
+        },
+        {
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/deutsche-bank-crypto-custody-expansion-asia-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "title": "Bitcoin climbs back above $82,000 as stocks recover",
+      "summary": "Bitcoin traded near $82,500, up from a Sunday dip to about $80,700, as Nasdaq futures rose over 1% after China's Q3 growth of 4.5% beat forecasts. Ether neared $2,430 and DeFi tokens led gains. Analysts note the rally is driven more by leveraged futures than spot buying, making it more fragile.",
+      "links": [
+        {
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains"
+        }
+      ]
+    }
+  ]
+}
