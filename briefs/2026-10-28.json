@@ -1,0 +1,175 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T21:04:16+03:00",
+  "sources_unavailable": [
+    "Daily Tribune"
+  ],
+  "bahrain": [
+    {
+      "title": "Parliament approves bill requiring 80% Bahraini staff on government projects",
+      "summary": "MPs voted 17 to 10 for a proposed law requiring private firms that take on government projects to reserve at least 80 per cent of jobs for Bahrainis. Critics warned it could deter investors. The bill now goes to the Shura Council for review.",
+      "tag": "Business",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1411037"
+        }
+      ]
+    },
+    {
+      "title": "MPs insist on pension law changes despite Shura Council rejection",
+      "summary": "Parliament unanimously stood by three amendments to the government, military and private sector pension laws, which aim to improve benefits for pensioners and their families as living costs rise. The Shura Council had rejected them over concerns about pressure on the retirement funds.",
+      "tag": "News",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1411035"
+        }
+      ]
+    },
+    {
+      "title": "Parliament opens investigation into EWA utility billing",
+      "summary": "MPs unanimously approved a six-member committee to investigate the Electricity and Water Authority over alleged faulty meter readings, tariff calculations and gaps in subsidy rules. It will examine electronic meter accuracy and the financial impact of tariff changes on households.",
+      "tag": "News",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1411034"
+        }
+      ]
+    },
+    {
+      "title": "Oxford Economics says GCC economic recovery has stalled heading into Q4",
+      "summary": "A newly launched GCC recovery index from Oxford Economics fell in its latest reading, indicating the region's recovery has stalled going into the fourth quarter. The finding matters for businesses planning around demand in Bahrain and its Gulf neighbours.",
+      "tag": "Business",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1411045"
+        }
+      ]
+    },
+    {
+      "title": "IMF sees Bahrain economy rebounding in 2027 after energy sector setback",
+      "summary": "The IMF's October 2026 Regional Economic Outlook describes severe near-term shocks from shipping and transit bottlenecks on key sea routes, but expects a V-shaped recovery in 2027. It credits Bahrain's institutional stability, low inflation and a shift towards structural reforms and AI.",
+      "tag": "Business",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1410726"
+        }
+      ]
+    },
+    {
+      "title": "Parliament urges review of long-delayed promotions for public sector staff",
+      "summary": "MPs unanimously backed an urgent proposal asking the government to identify ministries, public bodies and state-owned companies where employees' promotions, incentives and grades have been held up, explain the delays and set a timetable to resolve them.",
+      "tag": "News",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1411020"
+        }
+      ]
+    },
+    {
+      "title": "MPs back more time for 64 fishermen facing eviction from Al Fateh Corniche",
+      "summary": "Parliament unanimously approved two urgent proposals for a temporary harbour and enough time for 64 fishermen to move their boats from Al Fateh Corniche moorings. The proposals go to Cabinet, with boat owners facing a 5 November deadline to clear the sites.",
+      "tag": "News",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1411038"
+        }
+      ]
+    },
+    {
+      "title": "Three jailed for backing Iranian attacks and photographing sensitive sites",
+      "summary": "The High Criminal Court sentenced three defendants to between two and 10 years in prison, fined some BD 2,000 and ordered seized items confiscated. They were convicted of supporting Iranian attacks on Bahrain, obtaining restricted data and photographing sensitive locations.",
+      "tag": "News",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1411057"
+        }
+      ]
+    }
+  ],
+  "crypto": [
+    {
+      "title": "DTCC launches tokenization service for securities held at DTC",
+      "summary": "DTCC's Depository Trust Company now lets eligible clients mint tokenized versions of securities it holds, with the same ownership rights and protections. Twenty clients including Citadel Securities, Citi, Fidelity and JPMorgan have signed up. DTC holds over $114 trillion in assets, and more blockchains are planned for 2027.",
+      "links": [
+        {
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/dtcc-subsidiary-launches-tokenization-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
+        {
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks"
+        }
+      ]
+    },
+    {
+      "title": "US Federal Reserve holds interest rates steady",
+      "summary": "The Fed left interest rates unchanged at its October meeting, in line with expectations, according to the headline.",
+      "links": [
+        {
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/28/fed-leaves-interest-rates-unchanged-as-expected"
+        }
+      ]
+    },
+    {
+      "title": "Coinbase says vendor Amplitude exposed some customers' contact details",
+      "summary": "A security incident at analytics vendor Amplitude exposed contact information for a small subset of Coinbase customers. Coinbase says its own systems were not breached and funds are safe. It did not say how many users were affected.",
+      "links": [
+        {
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/coinbase-analytics-provider-customer-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
+        {
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info"
+        }
+      ]
+    },
+    {
+      "title": "Bithumb investigates data leak after hack of internal staff system",
+      "summary": "South Korean exchange Bithumb found a breach of its employee mobile platform on Tuesday and is checking whether member data leaked. It says trading systems are separate, so customer assets cannot be reached. Korean regulators say 16 financial firms had been hit by cyberattacks as of 14 October.",
+      "links": [
+        {
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/bithumb-discloses-data-leak-after-internal-system-breach-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
+        {
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks"
+        }
+      ]
+    },
+    {
+      "title": "CFTC sues Utah to protect Kalshi's prediction markets",
+      "summary": "The CFTC sued Utah and its attorney general, arguing federal law gives it exclusive power over event contracts, after Utah moved to recover up to $60 million in profits from Kalshi. Similar state cases are pending in several states and may end at the Supreme Court.",
+      "links": [
+        {
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/cftc-lawsuit-utah-action-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
+        {
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/10/27/u-s-agency-hits-utah-with-lawsuit-to-shield-kalshi-s-ability-to-offer-betting-there"
+        }
+      ]
+    },
+    {
+      "title": "Euronext suspends CoinShares Zcash ETP on its debut day",
+      "summary": "Euronext Paris halted the CoinShares Zcash ETP (ZCSH) on the day it was due to start trading, citing operational settlement requirements. It stays suspended until the central securities depository can fully support settlement. It would have been Europe's fourth Zcash ETP.",
+      "links": [
+        {
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/euronext-suspends-coinshares-zcash-etp-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    }
+  ]
+}
