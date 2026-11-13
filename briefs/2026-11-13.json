@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-13T08:45:12+03:00",
+  "generated_at": "2026-11-13T13:34:16+03:00",
   "sources_unavailable": [
     "Daily Tribune"
   ],
@@ -96,12 +96,16 @@
   ],
   "crypto": [
     {
-      "title": "Bitcoin falls to lowest since August as Nvidia CEO Jensen Huang resigns",
-      "summary": "Bitcoin dropped below $72,000 for the first time since 20 August, down 7.4% this month, as Nvidia shares fell up to 13% after Huang's sudden resignation. Liquidations reached $730 million in 24 hours, and traders now watch Friday's US PPI data after a hotter than expected CPI raised rate hike bets.",
+      "title": "Bitcoin slides below $70,000 as fear index hits four-month low",
+      "summary": "Bitcoin traded near $68,600 on Friday, down 9.2% in a week, after Nvidia CEO Jensen Huang's resignation rattled markets. The Fear and Greed Index fell to 20, US 10-year yields rose above 5%, BlackRock's IBIT lost over $2 billion in nine sessions, and Talos says order-book depth is about 33% below normal.",
       "links": [
         {
           "source": "Cointelegraph",
-          "url": "https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+          "url": "https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
+        {
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace"
         }
       ]
     },
@@ -150,12 +154,12 @@
       ]
     },
     {
-      "title": "DTCC to bring tokenized securities to Solana in second half of 2027",
-      "summary": "The US clearinghouse will connect its tokenization service to Solana, letting some securities held at DTC be issued as tokens. Analysts say a 2025 SEC rule limiting transfers to registered participant wallets will keep retail and DeFi users out for now.",
+      "title": "Thailand proposes $148,000 daily cap on stablecoin deposits and withdrawals",
+      "summary": "Thailand's SEC wants separate daily limits of 5 million baht ($148,000) per customer on stablecoin deposits and withdrawals at each regulated operator, a ban on transfers to third-party wallets, and Travel Rule compliance, to curb money laundering and evasion of cross-border transfer rules.",
       "links": [
         {
           "source": "Cointelegraph",
-          "url": "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+          "url": "https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
         }
       ]
     }
