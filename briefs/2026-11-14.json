@@ -1,0 +1,160 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T10:15:16+03:00",
+  "sources_unavailable": [
+    "Daily Tribune"
+  ],
+  "bahrain": [
+    {
+      "title": "MPs to debate housing allowance from the day an application is accepted",
+      "summary": "A proposed law due before Parliament on Tuesday would pay Bahraini families a monthly housing allowance of at least BD 100 as soon as their government housing application is accepted, scrapping the current five-year wait before most applicants qualify for rent support.",
+      "tag": "News",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1412769"
+        }
+      ]
+    },
+    {
+      "title": "Labour Law change could guarantee night-shift workers a 10% allowance",
+      "summary": "Parliament will discuss on Tuesday an amendment to the Labour Law that would give night-shift and on-call employees an extra allowance of at least 10% of their basic salary. Employers with overnight staff would face higher wage costs if it passes.",
+      "tag": "Business",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1412765"
+        }
+      ]
+    },
+    {
+      "title": "Bill would write off government debts of deceased citizens",
+      "summary": "MPs want government debts owed by Bahraini citizens to be cancelled automatically when they die, so families do not inherit them. The bill has the backing of Parliament's financial and economic affairs committee and goes to a vote on Tuesday.",
+      "tag": "News",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1412763"
+        }
+      ]
+    },
+    {
+      "title": "Pension proposed for parents who give up work to care for disabled children",
+      "summary": "A bill by MP Mohammed Al Ahmed, up for debate and a vote on Tuesday, would let parents who leave their jobs to care full time for a child with severe disabilities claim an old-age pension after 15 years of social insurance contributions.",
+      "tag": "News",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1412759"
+        }
+      ]
+    },
+    {
+      "title": "Tougher swimming pool safety rules proposed to cut drownings",
+      "summary": "A proposal would require barriers, warning alarms and rescue equipment at pools from private homes to hotels and sports clubs before next summer, aimed mainly at stopping unsupervised children reaching the water. Property owners and operators may need to upgrade pools.",
+      "tag": "News",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1412756"
+        }
+      ]
+    },
+    {
+      "title": "Bapco Energies makes first fund investment, backing US gas investor Kimmeridge",
+      "summary": "Bapco Energies' venture arm BeVentures has invested in Kimmeridge Fund VII, its first fund investment, and formed a partnership to look at natural gas and LNG opportunities and possible co-investments supporting Bahrain's long-term energy needs.",
+      "tag": "Business",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1412696"
+        }
+      ]
+    },
+    {
+      "title": "Ithmaar Bank reports BD 10 million nine-month net profit",
+      "summary": "Bahrain-based Islamic retail bank Ithmaar posted net profit of BD 10 million for the nine months to 30 September 2026, according to results approved by its board and announced by chairman Prince Amr Al Faisal.",
+      "tag": "Business",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1412590"
+        }
+      ]
+    }
+  ],
+  "crypto": [
+    {
+      "title": "Bitcoin falls below its 200-week average for the first time since August",
+      "summary": "Bitcoin dropped to about $67,500 on Friday, slipping under its 200-week moving average near $67,993, a level often seen as a cycle floor. One analyst warned a further break could open a test of the $57,700 cycle low, as Nvidia CEO Jensen Huang's resignation weighed on global stocks.",
+      "links": [
+        {
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
+        {
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion"
+        }
+      ]
+    },
+    {
+      "title": "US spot Bitcoin ETFs lose $2.35 billion in two weeks",
+      "summary": "Spot Bitcoin ETFs saw $1.07 billion of outflows this week after $1.28 billion the week before, the largest since late June, with seven straight days of withdrawals. BlackRock's IBIT has now lost money for 11 sessions in a row and accounts for about 90% of November's outflows.",
+      "links": [
+        {
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "title": "Kraken parent Payward doubles market share but earnings fall 66%",
+      "summary": "Payward's Q3 adjusted EBITDA fell to $60 million from $178.6 million a year earlier and volume dropped 30% to $353 billion, yet its share of global spot trading rose to 6.5% from 3.3%. Non-trading services now make up 52% of platform margin, and an IPO is eyed for Q2 2027 at the earliest.",
+      "links": [
+        {
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
+        {
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/11/13/kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenue-decline"
+        }
+      ]
+    },
+    {
+      "title": "Coinbase trust company gets final US approval as Senate seeks records",
+      "summary": "Coinbase's national trust company received final approval on 9 November, giving its custody business a federal framework. Senators Warren and Blumenthal are demanding records on crypto trust charters and on Binance, Tether and Trump-linked ventures, with a 4 January 2027 deadline.",
+      "links": [
+        {
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "title": "Bitcoin treasury firm Nakamoto posts negative revenue and extends Kraken loan",
+      "summary": "A $5.8 million Bitcoin options loss pushed Nakamoto's Q3 operating revenue to minus $1.9 million and its shares fell 6.5%. It pushed $60 million of its 165 million USDT Kraken debt to December 2027 and has pledged 3,030 BTC, about 71% of its holdings, as collateral.",
+      "links": [
+        {
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
+        {
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value"
+        }
+      ]
+    },
+    {
+      "title": "DTCC adds Solana to its Wall Street tokenization plans",
+      "summary": "According to the headline, the DTCC has added Solana to its plans for tokenizing Wall Street assets, targeting a 2027 rollout.",
+      "links": [
+        {
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout"
+        }
+      ]
+    }
+  ]
+}
