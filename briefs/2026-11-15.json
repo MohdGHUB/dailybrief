@@ -1,0 +1,145 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T10:03:27+03:00",
+  "sources_unavailable": [
+    "Daily Tribune"
+  ],
+  "bahrain": [
+    {
+      "title": "US Ambassador says all drones were intercepted, rejecting IRGC claims",
+      "summary": "US Ambassador Stephanie Hallett called claims by Iran's Revolutionary Guard Corps false, saying every drone was intercepted and that there was no damage and no one was hurt.",
+      "tag": "News",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1412876"
+        }
+      ]
+    },
+    {
+      "title": "GCC asks UN Security Council to list the Houthis as a terrorist group",
+      "summary": "Speaking for the GCC states, Bahrain urged the UN Security Council to designate the Houthis a terrorist group, saying Gulf security is indivisible and the states keep the right to self-defence.",
+      "tag": "News",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1412798"
+        }
+      ]
+    },
+    {
+      "title": "Health council and Bahrain Chamber prepare employers for residents' health insurance",
+      "summary": "The Supreme Council for Health and the Bahrain Chamber discussed rolling out the National Health Insurance Programme for Residents, focusing on making employers aware of its requirements, registration steps and coverage, and getting the private sector ready.",
+      "tag": "Business",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1412821"
+        }
+      ]
+    },
+    {
+      "title": "Crown Prince meets President Macron in Paris",
+      "summary": "HRH Prince Salman bin Hamad Al Khalifa, Crown Prince and Prime Minister, met French President Emmanuel Macron in Paris and stressed the long-standing ties between Bahrain and France, which continue to expand across many fields.",
+      "tag": "News",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1412787"
+        }
+      ]
+    },
+    {
+      "title": "Ministry calls GCC Railway a strategic project for passengers and freight",
+      "summary": "A senior Transportation Ministry official said the GCC Railway Project would improve links between Gulf states, develop passenger and freight transport and make logistics more efficient, which matters for trade and travel to and from Bahrain.",
+      "tag": "News",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1412850"
+        }
+      ]
+    },
+    {
+      "title": "Bank ABC Islamic nine-month profit falls to $21.8 million",
+      "summary": "Bank ABC Islamic reported net profit of $21.8 million for the first nine months of 2026, down from about $39 million in the same period a year earlier.",
+      "tag": "Business",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1412687"
+        }
+      ]
+    }
+  ],
+  "crypto": [
+    {
+      "title": "Bitcoin drops below $63,000 and XRP hits its lowest level in two years",
+      "summary": "According to the headlines, Bitcoin fell to a three-month low under $63,000 as an analyst flagged a fourth capitulation wave, while XRP slid to its lowest since November 2024 as money leaves crypto.",
+      "links": [
+        {
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst"
+        },
+        {
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto"
+        }
+      ]
+    },
+    {
+      "title": "Metaplanet swings to a $170 million loss after selling and rebuying Bitcoin",
+      "summary": "Japan's Metaplanet lost about $170 million in nine months, including a $119.8 million loss on selling 10,000 BTC to show lenders it can raise cash. It then bought 11,000 BTC at a higher price, its credit line debt rose to $649.5 million, and MSCI will drop it from its indexes on 30 November.",
+      "links": [
+        {
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "title": "Kava Lend hacked for about $3.8 million",
+      "summary": "According to the headline, the Kava Lend protocol lost roughly $3.8 million to a hack, sending the KAVA token down nearly 40%.",
+      "links": [
+        {
+          "source": "The Block",
+          "url": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350"
+        }
+      ]
+    },
+    {
+      "title": "UK, Singapore and Thailand central banks test cross-border FX settlement",
+      "summary": "According to the headlines, the three central banks completed a foreign exchange settlement trial linking traditional and tokenized systems, as stablecoins gain ground in cross-border payments.",
+      "links": [
+        {
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground"
+        },
+        {
+          "source": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-11-13-uk-singapore-and-thailand-central-banks-complete-foreign-exchange-settlement-trial-linking-traditional-and-tokenized-systems-439692"
+        }
+      ]
+    },
+    {
+      "title": "Indian exchange Unocoin keeps deposits and withdrawals frozen after breach",
+      "summary": "Unocoin is still halting deposits and withdrawals while it investigates unauthorised transfers from an Ethereum address tied to its BitGo wallets. BitGo said the transfers were signed with keys Unocoin held and that its own systems were not breached.",
+      "links": [
+        {
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/unocoin-withdrawals-halted-bitgo-wallet-transfer-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "title": "Real-world asset protocol stUSDT is shutting down",
+      "summary": "stUSDT, which peaked at $2.3 billion locked in 2023 and now holds about $8.6 million, stopped paying interest on Saturday and gives holders until 14 May 2027 to redeem. It gave no reason but says assets remain fully backed. It is not linked to Tether.",
+      "links": [
+        {
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    }
+  ]
+}
