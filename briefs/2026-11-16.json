@@ -1,0 +1,171 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T10:02:56+03:00",
+  "sources_unavailable": [
+    "Daily Tribune"
+  ],
+  "bahrain": [
+    {
+      "title": "Bahrain air defences intercept renewed Iranian drone attacks",
+      "summary": "The Bahrain Defence Force said its air defences intercepted and destroyed several Iranian aerial attacks on Sunday, following two drones downed on Friday. Bahrain strongly condemned the renewed strikes.",
+      "tag": "News",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1412941"
+        },
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1412889"
+        }
+      ]
+    },
+    {
+      "title": "MPs review proposed 10% corporate income tax",
+      "summary": "Parliament's financial and economic affairs committee discussed the draft law for a 10% corporate income tax on businesses above set revenue or profit thresholds, with the National Bureau for Revenue chief attending. MPs stressed protecting local firms' competitiveness.",
+      "tag": "Business",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1412919"
+        }
+      ]
+    },
+    {
+      "title": "Social insurance extended to self-employed, freelancers and Bahrainis abroad",
+      "summary": "New rules in the Official Gazette bring self-employed people, freelancers and Bahrainis working abroad into social insurance, and set BD 350 as the minimum monthly salary base for old-age, disability and non-work death cover.",
+      "tag": "News",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1412923"
+        }
+      ]
+    },
+    {
+      "title": "Shura Council rejects longer pension payments to children",
+      "summary": "The Shura Council voted down amendments that would have paid pensions to eligible children of deceased or retired beneficiaries up to age 24, or 28 for students, citing concern over pension fund finances. The bills go back to Parliament for a second vote.",
+      "tag": "News",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1412915"
+        }
+      ]
+    },
+    {
+      "title": "Bahrain Bourse to add closing auction session from 1 December",
+      "summary": "From 1 December the bourse will run a closing auction at the end of each trading day to set the closing price by supply and demand, followed by a trading-at-last session where eligible trades can be made at that price.",
+      "tag": "Business",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1412690"
+        }
+      ]
+    },
+    {
+      "title": "Muharraq council panel backs reserving fish selling for Bahrainis",
+      "summary": "A Muharraq Municipal Council committee unanimously supported an urgent proposal to restrict selling fish in local markets to Bahrainis, aiming to protect citizens' livelihoods and stop foreign workers dominating the trade.",
+      "tag": "Business",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1412911"
+        }
+      ]
+    },
+    {
+      "title": "Bahrain elected to chair WTO technical barriers to trade committee",
+      "summary": "Bahrain will chair the World Trade Organisation's Committee on Technical Barriers to Trade for the 2026 to 2027 term, represented by Maryam Al Doseri of its permanent mission in Geneva.",
+      "tag": "Business",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1412888"
+        }
+      ]
+    },
+    {
+      "title": "Bahrain Diabetes Society opens new centre in Aali",
+      "summary": "The society inaugurated its Silver Jubilee Diabetes Centre in Aali, led by Supreme Council for Health chairman Lt Gen Dr Shaikh Mohammed bin Abdulla Al Khalifa, expanding care facilities for patients.",
+      "tag": "News",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1412942"
+        }
+      ]
+    }
+  ],
+  "crypto": [
+    {
+      "title": "Bitcoin hits four-month low near $62,000 as ETF outflows mount",
+      "summary": "Bitcoin fell to about $62,081 on Sunday, its weakest since July, before bouncing above $65,000. Ether and Solana lost around 20% in a week, the fear index hit 10, and US spot Bitcoin ETFs shed $2.35 billion over two weeks.",
+      "links": [
+        {
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
+        {
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "title": "US moves to seize $1.2 billion stolen in the Binance hack",
+      "summary": "The DOJ won court approval to seize or restrain over $1.2 billion of the $6.3 billion taken from Binance on 29 October, which the FBI blames on North Korea. It also disrupted FaceStealer, a deepfake video call scam that stole over $400 million.",
+      "links": [
+        {
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "title": "Luxor mining platform hit by AI-enabled attack that redirected hashrate",
+      "summary": "Attackers breached Luxor's Commander tool and redirected some customers' mining power to another pool. Luxor patched it within two hours, will compensate clients in full, and its CEO warned AI-driven attacks on crypto firms are accelerating.",
+      "links": [
+        {
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
+        {
+          "source": "The Block",
+          "url": "https://www.theblock.co/news/business/2026-11-15-luxor-attack-client-hashrate-440810"
+        }
+      ]
+    },
+    {
+      "title": "Korean exchange Coinone warns customers after support data breach",
+      "summary": "An attacker breached Coinone's outsourced support provider, possibly exposing names, ID numbers, bank details and passwords shared with support. Coinone says trading and wallets were not hit and urged users to change passwords and watch for phishing.",
+      "links": [
+        {
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "title": "Coinbase trust charter approved as US senators question crypto charters",
+      "summary": "Coinbase's national trust company got final approval to open, giving its custody business a federal framework. Senators Warren and Blumenthal are demanding records on crypto charter approvals and links to Trump-tied ventures.",
+      "links": [
+        {
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "title": "Thailand proposes daily cap on some stablecoin transfers",
+      "summary": "According to the headline, Thailand is seeking a $148,000 daily limit on certain stablecoin transfers to curb money laundering.",
+      "links": [
+        {
+          "source": "The Block",
+          "url": "https://www.theblock.co/news/regulation/2026-11-13-thailand-seeks-daily-stablecoin-cap-439676"
+        }
+      ]
+    }
+  ]
+}
