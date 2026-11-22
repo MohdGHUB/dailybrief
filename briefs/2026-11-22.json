@@ -1,0 +1,168 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T13:16:40+03:00",
+  "sources_unavailable": [
+    "Daily Tribune"
+  ],
+  "bahrain": [
+    {
+      "title": "Two injured and industrial site set ablaze in new Iranian attacks on Bahrain",
+      "summary": "The Interior Ministry said Saturday's Iranian attacks injured two people, a Bahraini citizen in stable condition and a Pakistani resident in critical condition. A strike on an industrial facility caused a fire that Civil Defence worked to contain. Kuwait and Jordan condemned the attacks.",
+      "tag": "News",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1413563"
+        },
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1413536"
+        }
+      ]
+    },
+    {
+      "title": "MPs urged to reject BD 100,000 minimum capital rule for foreign-owned firms",
+      "summary": "A proposal requiring wholly foreign-owned companies to hold at least BD 100,000 in share capital heads to a parliamentary vote. Parliament's financial and economic affairs committee warned a blanket rule across all sectors could deter foreign investment and slow growth.",
+      "tag": "Business",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1413469"
+        }
+      ]
+    },
+    {
+      "title": "GCC-UK free trade deal expected to lift trade by up to 20%",
+      "summary": "Bahrain's ambassador to the UK said the GCC-UK Free Trade Agreement, once in force, should raise annual trade between the two sides, now about $60 billion, by 17% to 20%.",
+      "tag": "Business",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1413516"
+        }
+      ]
+    },
+    {
+      "title": "New fines to enforce tax transparency rules on three types of firms",
+      "summary": "Industry and Commerce Minister Abdulla Fakhro said Resolution 54 of 2026 sets administrative fines for breaches of Economic Substance, Common Reporting Standard and Country-by-Country Reporting rules, applying only to three specific categories of businesses under Bahrain's global obligations.",
+      "tag": "Business",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1413050"
+        }
+      ]
+    },
+    {
+      "title": "NBB commits to paying SME suppliers within 15 working days",
+      "summary": "National Bank of Bahrain will settle invoices from small and medium-sized suppliers within 15 working days of upload, after talks with Bahrain Chamber, aiming to ease cash-flow pressure on smaller businesses.",
+      "tag": "Business",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1413254"
+        }
+      ]
+    },
+    {
+      "title": "Arla Foods advances $60 million production line expansion in Bahrain",
+      "summary": "Ministers and the EDB chief toured Arla Foods' plant at Bahrain International Investment Park, where the Golden Licence holder is adding a new production line in a project worth more than $60 million.",
+      "tag": "Business",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1413356"
+        }
+      ]
+    },
+    {
+      "title": "Proposal for public drop-off spaces for unwanted household items sparks debate",
+      "summary": "Capital Trustees Board chairman Saleh Tarradah proposed a network of open spaces where residents can leave old furniture, appliances and other items for others to collect, cutting waste sent to landfill. Municipal officials are divided on the idea.",
+      "tag": "News",
+      "links": [
+        {
+          "source": "Gulf Daily News",
+          "url": "https://www.gdnonline.com/Details/1413492"
+        }
+      ]
+    }
+  ],
+  "crypto": [
+    {
+      "title": "Bitcoin drops below $60,000 for first time since July amid tech selloff",
+      "summary": "Bitcoin fell as low as $58,811 on Friday, down nearly 30% in a month, as the Nasdaq slid over 5% and US spot Bitcoin ETFs lost $582 million in a day. CoinShares blamed the AI stock rout and high rates. CoinDesk reports it later recovered above $60,000 after $1.8 billion in liquidations.",
+      "links": [
+        {
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
+        {
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open"
+        }
+      ]
+    },
+    {
+      "title": "Bitcoin flash-crashes to about $17,000 on Kraken's Canadian dollar market",
+      "summary": "Heavy selling on Kraken's Canadian dollar pairs briefly pushed Bitcoin to the equivalent of about $16,900, some 71% below its US dollar price. Kraken found no breach and said executed trades will stand.",
+      "links": [
+        {
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    },
+    {
+      "title": "Chainflip confirms $12 million vault hack and offers attacker 10% bounty",
+      "summary": "The cross-chain swap protocol said about $12 million in BTC, ETH and stablecoins was stolen on Saturday, up from an early $4.86 million estimate. It gave the attacker until 23 November to return 90%, and its FLIP token fell about 43%.",
+      "links": [
+        {
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
+        {
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain"
+        }
+      ]
+    },
+    {
+      "title": "US Senate passes bill banning prediction market bets on war and death",
+      "summary": "The DEATH BETS Act would bar CFTC-registered exchanges from listing contracts tied to war, terrorism, assassination, US military operations or a person's death. It passed by voice vote and now goes to the House.",
+      "links": [
+        {
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/us-senate-advances-prediction-market-restrictions-with-death-bets-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
+        {
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death"
+        }
+      ]
+    },
+    {
+      "title": "Hong Kong bill would license crypto dealers, advisers, managers and custodians",
+      "summary": "Hong Kong published a bill requiring firms dealing, advising, managing or holding virtual assets to be licensed or registered with the SFC, extending oversight beyond exchanges. It goes to the Legislative Council for a first reading on 2 December.",
+      "links": [
+        {
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
+        {
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians"
+        }
+      ]
+    },
+    {
+      "title": "Binance hackers move nearly $600 million in Ether through cross-chain protocols",
+      "summary": "Wallets tied to the $6.3 billion Binance hack, linked to North Korea, shifted about $594 million in ETH over two days, routing some through THORChain and Chainflip. They still hold about $394 million in ETH.",
+      "links": [
+        {
+          "source": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ]
+    }
+  ]
+}
